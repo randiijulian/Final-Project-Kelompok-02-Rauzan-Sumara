@@ -8,7 +8,7 @@ Nama Mentor: Rauzan Sumara
 
 Nama Dataset: Mobile Price Classification
 
-Link Dataset: https://www.kaggle.com/datasets/iabhishekofficial/mobile-price-classification
+Link Dataset: www.kaggle.com/datasets/iabhishekofficial/mobile-price-classification
 
 Problem: Classification
 
