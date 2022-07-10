@@ -14,6 +14,6 @@ Problem: Classification
 
 Final Model: Random Forest
 
-Link Repositori: github.com/randiijulian/Final-Project-Kelompok-03-Rauzan-Sumara
+Link Repositori: www.github.com/randiijulian/Final-Project-Kelompok-03-Rauzan-Sumara
 
 Link PPT: <link presentasi dalam google slides> 
