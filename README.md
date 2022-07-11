@@ -16,4 +16,4 @@ Final Model: Random Forest
 
 Link Repositori: www.github.com/randiijulian/Final-Project-Kelompok-03-Rauzan-Sumara
 
-Link PPT: <link presentasi dalam google slides> 
+Link PPT: https://docs.google.com/presentation/d/1cuWFaPNEu0ACy4xMAHXIniHAK05eR4mBvDMp82wu_J8/edit?usp=sharing
