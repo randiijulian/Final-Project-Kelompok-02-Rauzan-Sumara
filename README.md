@@ -1,4 +1,4 @@
-# Final Project Kelompok 03
+# Final Project Kelompok 02
 Anggota Kelompok:
 - Randi Julian Saputra 
 - Wahyu Berkhe Bestari
